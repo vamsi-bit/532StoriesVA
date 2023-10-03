@@ -1,1 +1,6 @@
-A down-on-his-luck gambler stumbles upon a mysterious game of chance hidden in a corner of Disney World, where winning could change his life forever.
+A down-on-his-luck gambler stumbles upon a mysterious game of chance hidden in a corner of 
+Disney World, where winning could change his life forever.
+
+The gambler is not very smart.
+The gambler is bad at gambling.
+
